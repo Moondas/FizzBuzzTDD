@@ -9,9 +9,9 @@ $ npm install
 
 ## Usage
 
-```js
+```sh
 
-npm test;
+npm test
 ```
 ## License
 
