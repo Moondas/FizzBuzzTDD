@@ -1,18 +1,17 @@
-# fizzbuzztdd [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
-> 
+# FizzBuzzTDD [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+>
 
 ## Installation
 
 ```sh
-$ npm install --save fizzbuzztdd
+$ npm install
 ```
 
 ## Usage
 
 ```js
-const fizzbuzztdd = require('fizzbuzztdd');
 
-fizzbuzztdd('Rainbow');
+npm test;
 ```
 ## License
 
